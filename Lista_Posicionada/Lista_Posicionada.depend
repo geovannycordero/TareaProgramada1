@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1494979581 source:c:\users\geova\desktop\lista_posicionada\main.cpp
+	<iostream>
+	"ListaPosicionada_2.h"
+
+1494972505 source:c:\users\geova\desktop\lista_posicionada\src\listaposicionada.cpp
+	"ListaPosicionada.h"
+
+1494987261 c:\users\geova\desktop\lista_posicionada\include\listaposicionada.h
+	<iostream>
+
+1494979032 source:c:\users\geova\desktop\lista_posicionada\src\listaposicionada_1.cpp
+	"ListaPosicionada_1.h"
+
+1494971785 c:\users\geova\desktop\lista_posicionada\include\listaposicionada_1.h
+	"Pos.h"
+	<iostream>
+
+1494987086 c:\users\geova\desktop\lista_posicionada\include\pos.h
+
+1494973439 source:c:\users\geova\desktop\lista_posicionada\src\pos.cpp
+	"Pos.h"
+
+1494979533 source:c:\users\geova\desktop\lista_posicionada\src\listaposicionada_2.cpp
+	"ListaPosicionada_2.h"
+
+1494975843 c:\users\geova\desktop\lista_posicionada\include\listaposicionada_2.h
+	"Posn.h"
+	<iostream>
+
+1494975702 c:\users\geova\desktop\lista_posicionada\include\posn.h
+
+1494975977 source:c:\users\geova\desktop\lista_posicionada\src\posn.cpp
+	"Posn.h"
+
